@@ -1,0 +1,7 @@
+job_id,job_title,company,location,job_description
+1,Data Analyst,Acme Corp,Remote,"We are looking for a Data Analyst experienced with SQL, Python, and Tableau. Responsibilities include data cleaning, dashboarding, and collaborating with stakeholders."
+2,Machine Learning Engineer,InnovateAI,San Francisco,"Seeking ML Engineer to build and deploy models using Python, scikit-learn, TensorFlow, and experience with MLOps and Docker."
+3,Business Intelligence Developer,DataWorks,New York,"BI Developer proficient in Power BI and SQL. Build reports, ETL processes, and work with large datasets."
+4,Software Engineer,Tech Solutions,Austin,"Full-stack Software Engineer with Java and Spring Boot experience. Develop REST APIs and backend services."
+5,NLP Engineer,LangTech,Remote,"NLP Engineer to work on text embeddings, transformer models, and productionizing NLP pipelines."
+6,AI Product Manager,SmartProducts,Boston,"Product manager with AI/ML background needed to liaise between stakeholders and engineers."

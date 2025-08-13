@@ -1,3 +1,19 @@
+# Smart Resume Matcher
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](https://piyushm97-smart-resume-matcher.streamlit.app)
+
+A web app that matches your resume with relevant job postings using AI-powered semantic similarity.
+
+## 🚀 Features
+- Upload a resume (PDF/TXT) or paste text
+- Compare with multiple job descriptions
+- Get top matching jobs ranked by similarity score
+- Easy-to-use Streamlit UI
+
+## 📸 Screenshot
+![App Screenshot](images/app_screenshot.png)  <!-- optional -->
+
+---
 # Smart Resume Matcher & Job Recommender
 
 A ready-to-run Streamlit application that compares a resume (uploaded PDF/TXT or pasted text) to a set of sample job descriptions using Sentence-BERT embeddings.
